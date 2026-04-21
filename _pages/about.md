@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
- I am Saksham Sethi.
+ Hi, I am Saksham.
  
  I am an incoming freshman at [Caltech](https://www.caltech.edu/). I am broadly interested in mathematics, physics, and computer science, especially their intersections. 
  
@@ -18,4 +18,4 @@ Topics I am interested in exploring further:
 
 Contact
 ------
-You can reach me at (myfirstname).(mylastname).123123@gmail.com.
+You can reach me at (firstname)(lastname)123123@gmail.com.
